@@ -17,3 +17,9 @@ a {
     margin-right: 10%;
   }
 }
+
+.nav {
+  text-align: right;
+  height: 10px;
+  line-height: 40px;
+}
